@@ -1,0 +1,1 @@
+As an admin I want to view all registered users in the system so that I can monitor user activities manage accounts.

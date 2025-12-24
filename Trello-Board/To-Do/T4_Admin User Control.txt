@@ -1,0 +1,1 @@
+As an admin I want to remove users from the system so that inactive or unauthorized users cannot access the platform.
